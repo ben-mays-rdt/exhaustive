@@ -3,7 +3,7 @@ package otherpkg
 import (
 	"fmt"
 
-	"github.com/nishanths/exhaustive/testdata/switchtest"
+	"github.com/ben-mays-rdt/exhaustive/testdata/switchtest"
 )
 
 func switchParen(b switchtest.Biome) {

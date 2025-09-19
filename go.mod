@@ -1,4 +1,4 @@
-module github.com/nishanths/exhaustive
+module github.com/ben-mays-rdt/exhaustive
 
 go 1.18
 

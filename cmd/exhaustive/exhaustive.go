@@ -7,7 +7,7 @@
 package main
 
 import (
-	"github.com/nishanths/exhaustive"
+	"github.com/ben-mays-rdt/exhaustive"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 

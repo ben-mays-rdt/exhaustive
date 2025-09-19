@@ -1,5 +1,7 @@
 # exhaustive
 
+** Fork of github.com/nishanths/exhaustive to fix x/tools compatibility, see https://github.com/golang/go/issues/74462 **
+
 [![Godoc][godoc-svg]][godoc]
 
 `exhaustive` checks exhaustiveness of enum switch statements in Go source code.
